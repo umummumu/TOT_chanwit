@@ -1,5 +1,5 @@
 # TOT_chanwit
-## created by Um chanwit
+## created by Um Chanwit
 
 * Tutorial
 * Git learning
